@@ -1,0 +1,7 @@
+{
+    "C_Cpp.default.includePath": [
+      "${workspaceFolder}/**",
+      "/home/grads/mbr5797/anaconda3/envs/capnp/include/"
+    ],
+    "C_Cpp.default.compilerPath": "/usr/bin/g++",
+  }
